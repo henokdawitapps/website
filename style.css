@@ -1,0 +1,41 @@
+body{
+	background: #fff;
+}
+a {
+	text-decoration: unset;
+	color: #969696;
+	margin: auto 10px;
+}
+a[class="current"] {
+	color: #111;
+}
+div[class="email"] {
+	margin-left: 100px;
+}
+div[class="center"]{
+	text-align: center;
+}
+
+div[class="page content container"] {
+	width: 80%;
+	align-items: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 50px;
+}
+h1[class="page content h1"] {
+	text-align: center;
+}
+a[class="strong color"] {
+	color: #0000FF;
+}
+img {
+	width: 254px;
+	height: 300px;
+}
+div[class="center image"] {
+	width: 254px;
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+}
